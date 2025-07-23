@@ -1,4 +1,4 @@
-# JKT48 Voting Campaign Data Analysis 🎤📊
+# JKT48 Voting Campaign Data Management 🎤📊
 This project analyzes the fundraising and vote tracking data for Catherina Vallencia's JKT48 Sousenkyo 2024 campaign.
 
 ## 📁 Project Structure
